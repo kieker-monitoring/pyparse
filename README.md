@@ -7,7 +7,8 @@ Kieker [SAR (Static Architecture
 Recovery)](https://github.com/kieker-monitoring/kieker/tree/main/tools/sar)
 tool. The combination of Kieker fxca (FXTran Code Analysis) tool and the
 [fxtran](https://github.com/pmarguinaud/fxtran) tool are a complementary
-counterpart of Pyparse for the Fortran language.
+counterpart of Pyparse for the Fortran language. The tool is actively
+maintained by developers from the Kieker developers group and communities.
 
 ## Author
 Daphné Larrivain <daphne.larrivain@ecole.ensicaen.fr>
